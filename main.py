@@ -1,4 +1,6 @@
-# coolest-art-01 v1 — "Koi to Dragon": deterministic copy of entry.png.
+# coolest-art-01 v3 — "The Volcano Tree" (signature-first): deterministic copy of entry.png.
+# v3 winner: the eruption IS a tree — lava limbs, ember leaves, fire crown,
+# one colossal silhouette on a dark starry sky, tiny sleeping village at the base.
 # Writes the image to MAKEFUN_OUTPUT_DIR (default /output), byte-identical.
 import os
 import shutil
