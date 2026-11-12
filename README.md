@@ -1,26 +1,30 @@
-# Coolest Art — "The Volcano Tree" (v3, signature-first)
+# Coolest Art — "One Stitch" (v4, Round 2)
 
-A volcano at night, but its eruption IS a tree: rivers of molten lava
-branch upward like limbs, embers drift like glowing leaves, and the crown
-is a burst of fire and sparks against a dark starry sky. A tiny sleeping
-village with a few warm lights cowers at the volcano's base, dwarfed by
-the tree. The idea is one sentence — the eruption is a tree — and it is
-legible at a glance: one colossal tree silhouette fills the frame, and it
-still reads as a tree of fire at thumbnail size.
+A torn sky, stitched back together. A jagged rip runs diagonally across a
+vast cream paper sky, revealing black beneath; one thick crimson thread
+stitches the tear closed in big loose stitches, and its loose end curves
+down into a horizon line on which one tiny silhouetted figure walks. The
+idea is one sentence — the sky is being repaired with a single stitch —
+and it reads at a glance: a cream field, a black diagonal tear, red stitches.
 
-This is an original signature, not a formula remix. It was chosen in an
-open try-and-error loop over two earlier entries — v1 "Koi to Dragon"
-over a neon city (original idea, but a busy second zone) and v2, a
-recomposed koi-dragon (clean, but its first-glance silhouette sits close
-to the top-20 koi entries). Three fresh concepts were generated and judged
-against the five criteria plus originality: a comet painting the aurora
-(beautiful palette, but the paintbrush fusion did not read), a clock tower
-whose hands become birds (clever idea, but the executed image read as a
-moon, not a clock), and the volcano tree — which won clearly on
-stop-power and idea freshness, with a subject no top-20 entry uses, a
-single huge shape, clean craft, and no text anywhere.
+This is an original signature, not a formula remix, and it was chosen after
+a hard recalibration. v3 "The Volcano Tree" scored 0.8965 (rank 260/603) —
+a fresh idea executed in the crowd's dark+orange palette still reads as
+"another orange glow image" at one glance, in a field of 600 entries where
+most are dark background + warm glow. Round 2 therefore hunted a different
+lane: first-glance distinctiveness first. Three concepts were generated in
+three empty lanes and judged against the five criteria plus originality
+plus the new test — would it stand out at first glance among 600 mostly
+dark+gold entries? A cool moonlit road (beautiful, but structurally the
+crowd's dark+glow grammar, with a busy cloudy top) and a red balloon
+lifting an anchor (a strong flat paradox, but still a dark background)
+both lost to the stitch: the cream background is the single most
+distinguishing thing possible in a dark feed, the red thread is the only
+accent, and the idea is stranger and more memorable than either. At
+thumbnail size the tear, the red X stitches and the horizon thread still
+read — the walker is a bonus, not the carrier.
 
-`entry.png` is a 640x960 PNG (1,010,959 bytes, within the 1 MiB cap),
-resized with LANCZOS from the full 1280x1920 composition, no crop.
+`entry.png` is a 1024x683 PNG (412,674 bytes, within the 1 MiB cap),
+resized with LANCZOS from the full 1920x1280 composition, no crop.
 `main.py` (Python 3.13, stdlib only) deterministically copies it to
 `$MAKEFUN_OUTPUT_DIR/entry.png`; running it twice writes identical bytes.
