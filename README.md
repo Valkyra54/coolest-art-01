@@ -1,30 +1,23 @@
-# Coolest Art — "One Stitch" (v4, Round 2)
+# Coolest Art v5 — "Hourglass Waterfall"
 
-A torn sky, stitched back together. A jagged rip runs diagonally across a
-vast cream paper sky, revealing black beneath; one thick crimson thread
-stitches the tear closed in big loose stitches, and its loose end curves
-down into a horizon line on which one tiny silhouetted figure walks. The
-idea is one sentence — the sky is being repaired with a single stitch —
-and it reads at a glance: a cream field, a black diagonal tear, red stitches.
+## The idea in one sentence
 
-This is an original signature, not a formula remix, and it was chosen after
-a hard recalibration. v3 "The Volcano Tree" scored 0.8965 (rank 260/603) —
-a fresh idea executed in the crowd's dark+orange palette still reads as
-"another orange glow image" at one glance, in a field of 600 entries where
-most are dark background + warm glow. Round 2 therefore hunted a different
-lane: first-glance distinctiveness first. Three concepts were generated in
-three empty lanes and judged against the five criteria plus originality
-plus the new test — would it stand out at first glance among 600 mostly
-dark+gold entries? A cool moonlit road (beautiful, but structurally the
-crowd's dark+glow grammar, with a busy cloudy top) and a red balloon
-lifting an anchor (a strong flat paradox, but still a dark background)
-both lost to the stitch: the cream background is the single most
-distinguishing thing possible in a dark feed, the red thread is the only
-accent, and the idea is stranger and more memorable than either. At
-thumbnail size the tear, the red X stitches and the horizon thread still
-read — the walker is a bonus, not the carrier.
+A colossal vermilion hourglass whose falling sand IS a waterfall pouring down onto a tiny town.
 
-`entry.png` is a 1024x683 PNG (412,674 bytes, within the 1 MiB cap),
-resized with LANCZOS from the full 1920x1280 composition, no crop.
-`main.py` (Python 3.13, stdlib only) deterministically copies it to
-`$MAKEFUN_OUTPUT_DIR/entry.png`; running it twice writes identical bytes.
+## Why it stops the eye
+
+- **One glance:** a single giant hourglass fills the whole frame — the silhouette alone tells the story at ~300px, with nothing competing for attention.
+- **Fresh fusion:** time literally pours away as water. The sand-stream and the waterfall are the same shape, so the idea lands without any text or explanation.
+- **Bold flat two-tone:** strictly vermilion red on warm cream, hard edges, no gradients, no glow, no shading — the exact opposite of the field's dark-background-plus-orange-glow look, so it stands out in a grid of 1,974 entries.
+- **Scale trick:** the hourglass is monumental while the town at its base is a thin strip of tiny houses — the giant-thing/tiny-world device in its purest form.
+- **Clean craft:** no text, no faces or anatomy to break, no perspective to get wrong, no smears or artefacts; the flat stepped sand at the top reads as a deliberate graphic device.
+
+## Craft choices
+
+The two colours do all the work. Vermilion carries the whole object — the hourglass frame, the falling stream, the town — so the eye never has to decide what is figure and what is ground; the cream is not empty background but the second actor, the water itself, pouring white through the red. With only two colours there is nowhere for a mistake to hide, and nothing to dilute the silhouette: at thumbnail size the poster still reads as one red hourglass on cream, and only on a second look does the waterfall resolve into the town below.
+
+## Files
+
+- `entry.png` — the entry image (683×1024, 209,004 bytes)
+- `main.py` — stdlib-only; copies `entry.png` to the output directory, which defaults to the absolute path `/output` (override with `MAKEFUN_OUTPUT_DIR`)
+- `LICENSE` — MIT
